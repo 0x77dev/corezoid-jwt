@@ -1,0 +1,13 @@
+{
+  "name": "corezoid-jwt",
+  "version": "0.0.1",
+  "description": "Git call to generate jwt.",
+  "main": "index.js",
+  "repository": "git@github.com:0x77dev/corezoid-jwt.git",
+  "author": "Misha Marinenko <marinenko.m@d2.digital>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
