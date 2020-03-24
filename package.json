@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "jsonwebtoken": "^8.5.1"
+    "jwt-simple": "^0.5.6"
   }
 }

@@ -1,3 +1,3 @@
-const { sign } = require("jsonwebtoken");
+const { encode } = require("jwt-simple");
 
-module.exports = sign;
+module.exports = encode;
